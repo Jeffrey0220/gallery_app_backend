@@ -5,6 +5,10 @@ var data = require("../data/data.json");
 
 /* GET home page. */
 router.get("/", function (req, res, next) {
+  res.send("hello");
+});
+
+router.get("/api", function (req, res, next) {
   videosData = [];
   len = data.videos.length;
 
