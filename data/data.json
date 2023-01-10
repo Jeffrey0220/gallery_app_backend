@@ -1,0 +1,82 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "videoPath": "./public/images/photo-1530584379127-80bf85c555ed.avif",
+      "name": "Lost on the Road to the mountains",
+      "author": "Alan Tiger",
+      "spot": "Paris, France",
+      "time": "March 31st, 2016",
+      "likes": 4500,
+      "commentsNum": 1100
+    },
+    {
+      "id": 2,
+      "videoPath": "./public/images/photo-1611416517780-eff3a13b0359.avif",
+      "name": "Lost on the Road to the mountains",
+      "author": "Alan Tiger",
+      "spot": "Paris, France",
+      "time": "March 31st, 2016",
+      "likes": 4500,
+      "commentsNum": 1100
+    },
+    {
+      "id": 3,
+      "videoPath": "./public/images/photo-1603314585442-ee3b3c16fbcf.avif",
+      "name": "Lost on the Road to the mountains",
+      "author": "Alan Tiger",
+      "spot": "Paris, France",
+      "time": "March 31st, 2016",
+      "likes": 4500,
+      "commentsNum": 1100
+    },
+    {
+      "id": 4,
+      "videoPath": "./public/images/detail-page-bg.png",
+      "name": "Lost on the Road to the mountains",
+      "author": "Alan Tiger",
+      "spot": "Paris, France",
+      "time": "March 31st, 2016",
+      "likes": 4500,
+      "commentsNum": 1100
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "picturePath": "./public/images/user1.png",
+      "firstName": "Thomas",
+      "lastName": "Rodriguez",
+      "comment": "These is very adorable. I am loving this. Somethimes this pictures just are beautiful!",
+      "likes": 4500,
+      "commentsNum": 1100
+    },
+    {
+      "id": 2,
+      "picturePath": "./public/images/user2.png",
+      "firstName": "Thomas",
+      "lastName": "Rodriguez",
+      "comment": "These is very adorable. I am loving this. Somethimes this pictures just are beautiful!",
+      "likes": 4500,
+      "commentsNum": 1100
+    },
+    {
+      "id": 3,
+      "picturePath": "./public/images/user3.png",
+      "firstName": "Thomas",
+      "lastName": "Rodriguez",
+      "comment": "These is very adorable. I am loving this. Somethimes this pictures just are beautiful!",
+      "likes": 4500,
+      "commentsNum": 1100
+    },
+    {
+      "id": 4,
+      "picturePath": "./public/images/user4.png",
+      "firstName": "Thomas",
+      "lastName": "Rodriguez",
+      "comment": "These is very adorable. I am loving this. Somethimes this pictures just are beautiful!",
+      "likes": 4500,
+      "commentsNum": 1100
+    }
+  ]
+}
